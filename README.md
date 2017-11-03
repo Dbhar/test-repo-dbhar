@@ -1,2 +1,2 @@
 # test-repo-dbhar
-Read me file conflict1
+Read me file confict2
